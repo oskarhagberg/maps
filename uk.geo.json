@@ -8,7 +8,7 @@
         "name": "Midlands",
         "name_long": "Midlands",
         "iso_a2": "Midlands",
-        "market_name": "Midlands"
+        "area_name": "Other Midlands"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4586,7 +4586,7 @@
         "name": "London",
         "name_long": "London",
         "iso_a2": "London",
-        "market_name": "London"
+        "area_name": "Other London"
       },
       "geometry": {
         "type": "Polygon",
@@ -5416,7 +5416,7 @@
         "name": "South",
         "name_long": "South",
         "iso_a2": "South",
-        "market_name": "South"
+        "area_name": "Other South"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10312,7 +10312,7 @@
         "name": "North West",
         "name_long": "North West",
         "iso_a2": "North West",
-        "market_name": "North West"
+        "area_name": "Other North West"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11986,7 +11986,7 @@
         "name": "North East",
         "name_long": "North East",
         "iso_a2": "North East",
-        "market_name": "North East"
+        "area_name": "Other North East"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13715,7 +13715,7 @@
         "name": "Milton Keynes",
         "name_long": "Milton Keynes",
         "iso_a2": "Milton Keynes",
-        "market_name": "Milton Keynes"
+        "area_name": "Other Milton Keynes"
       },
       "geometry": {
         "type": "Polygon",
